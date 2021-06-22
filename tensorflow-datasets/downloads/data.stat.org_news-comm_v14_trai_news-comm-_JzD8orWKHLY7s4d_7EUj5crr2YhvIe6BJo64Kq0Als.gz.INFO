@@ -1,0 +1,1 @@
+{"dataset_names": ["wmt_translate"], "original_fname": "news-commentary-v14.en-zh.tsv.gz", "url_info": {"checksum": "fc9cc3f28ad62872d8eece1dffb1148f972baf6621bc87ba049a3ae0aab4025b", "filename": "news-commentary-v14.en-zh.tsv.gz", "size": 36696769}, "urls": ["http://data.statmt.org/news-commentary/v14/training/news-commentary-v14.en-zh.tsv.gz"]}
